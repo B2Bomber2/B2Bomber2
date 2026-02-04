@@ -1,4 +1,12 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url='https://www.linkedin.com/in/ferrari-guan/'" />
+  </head>
+  <body>
+    <p>Please wait, redirecting to <a href="https://www.linkedin.com/in/ferrari-guan/">Linkedin</a>...</p>
+  </body>
+</html>
 
 <!--
 **B2Bomber2/B2Bomber2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
