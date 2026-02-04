@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; url='https://www.linkedin.com/in/ferrari-guan/'" />
+    <meta http-equiv="refresh" content="0; url='https://b1bomber.github.io/Portfolio/main.html'" />
   </head>
   <body>
-    <p>Please wait, redirecting to <a href="https://www.linkedin.com/in/ferrari-guan/">Linkedin</a>...</p>
+
   </body>
 </html>
 
