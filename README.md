@@ -4,7 +4,10 @@
     <meta http-equiv="refresh" content="0; url='https://b1bomber.github.io/Portfolio/main.html'" />
   </head>
   <body>
-
+    <p>
+      ECE Computer Engineering Student at UC San Diego
+    </p>
+    <p></p>
   </body>
 </html>
 
